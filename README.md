@@ -5,7 +5,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-한 두 문단으로 프로젝트 소개 글을 작성합니다.
+DB의 경우 주가의 변동과 뉴스 제목을 담는 두 테이블로 구성되어 있고, 
 
 ```[![이미지 텍스트](스크린샷 이미지)](유투브링크)```
 
